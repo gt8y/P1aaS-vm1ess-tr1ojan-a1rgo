@@ -4,24 +4,24 @@
     "keywords": ["Deploy"],
     "env": {
         "VmessUUID": {
-            "description": "Vmess UUID. Use UUID tools to generate you own UUID.",
+            
             "value": "ad806487-2d26-4636-98b6-ab85cc1234f2"
         },
         "SecretPATH": {
-            "description": "Websocket base Path. Set this path to an uncommon path which doesn't contain sensitive information.",
+           
             "value": "/my2path0"
         },
         "PASSWORD": {
-            "description": "Trojan Password, recommend strong password.",
+           
             "value": "pass0word1"
         },        
         "ArgoJSON": {
-            "description": "Argo tunnel JSON. Optional.",
+          
             "required": false,
             "value": ""
         },
         "ArgoDOMAIN": {
-            "description": "Argo tunnel Domain. Optional, if you don't want to use Argo tunnel, you can ignore this.",
+           
             "required": false,
             "value": ""
         }
