@@ -5,15 +5,15 @@
     "env": {
         "VmessUUID": {
             "description": "Vmess UUID. Use UUID tools to generate you own UUID.",
-            "value": "1eb6e917-774b-4a84-aff6-b058577c61a4"
+            "value": "ad806487-2d26-4636-98b6-ab85cc1234f2"
         },
         "SecretPATH": {
             "description": "Websocket base Path. Set this path to an uncommon path which doesn't contain sensitive information.",
-            "value": "/my2path0"
+            "value": "/mypath"
         },
         "PASSWORD": {
             "description": "Trojan Password, recommend strong password.",
-            "value": "pass0word1"
+            "value": "password"
         },        
         "ArgoJSON": {
             "description": "Argo tunnel JSON. Optional.",
